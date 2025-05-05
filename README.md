@@ -21,8 +21,6 @@ project-management-app/
 │   ├── components/       # Reusable UI components
 │   │   ├── NetworkStatus.tsx  # Connectivity indicator
 │   │   ├── ProjectCard.tsx    # Project list item
-│   ├── contexts/         # React contexts
-│   │   ├── ProjectsContext.tsx  # Projects state provider
 │   ├── hooks/            # Custom hooks
 │   │   ├── useNetworkStatus.ts  # Network connectivity
 │   │   ├── useProjects.ts       # Project data & sync
