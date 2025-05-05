@@ -14,7 +14,7 @@ A React Native application built with Expo that allows users to manage projects 
 ## Project Structure
 
 ```
-breezy-app/
+project-management-app/
 ├── .expo/                # Expo configuration
 ├── assets/               # Static assets
 ├── src/
